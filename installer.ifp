@@ -1,0 +1,96 @@
+[Header]
+ProjectFileVersion = "1.1"
+[General]
+Program name = MERGE_XML
+Program version = 1.0.0
+Windows 2000 = 1
+Windows XP = 1
+Windows Server 2003 = 1
+Windows Vista = 1
+Windows Server 2008 = 1
+Windows 7 = 1
+Windows 8 = 1
+Windows 10 = 1
+Windows Server 2016 = 1
+DoNotCheckOS = 0
+Company name = Balcony LTD.
+Website = http://
+SFA = 1
+DFA = 1
+Comp = 1
+[Graphics]
+Wizard image = <main>
+Header image = <main>
+Install-icon image = <main>
+Show Label = 1
+Windows style = 1
+XpStyle = 1
+[Files]
+Include Zipfile = 0
+Zipfile = 
+Installation path = <programfiles>\<company>\<appname>\
+Autcip = 1
+[Uninstall]
+Vwau = 0
+Website = 
+Include uninstaller = 0
+Uninstaller filename = Uninstall
+[Licence]
+Licence dialog = 0
+[Finish]
+Sart program = 0
+Reboot computer = 0
+Execute DLL: = 0
+Program = <installpath>\
+ProgramArguments = 
+Dll = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = <company>\<appname>\
+[Serialoptions]
+Allows = 0
+Number = 20
+[SplashScreen]
+Image = 
+Sound = 
+Time = 2
+PlaySound = 0
+Allow = 0
+[Build]
+File = C:\Users\bushka\Desktop\MERGE.exe
+[Updater]
+Allow = 0
+1 = <appname>
+2 = <appversion>
+3 = http://
+4 = http://
+5 = http://
+6 = Update
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 0
+[Languages]
+[Files/Dirs]
+C:\Users\bushka\Downloads\v4\xml_2\dist\MERGE_XML_v1.0\
+n/a
+[Folder]
+[Licence_Begin]
+146
+{\rtf1\fbidis\ansi\ansicpg1255\deff0\deflang1037{\fonttbl{\f0\fnil\fcharset177 MS Shell Dlg;}}
+\viewkind4\uc1\pard\ltrpar\f0\rtlch\fs17\par
+}
+ [Licence_End]
+[Registry]
+[Variables]
+[SCs]
+Desktop
+MERGE
+<installpath>\MERGE_XML_v1.0\MERGE_XML_v1.0.exe
+
+
+0
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]
