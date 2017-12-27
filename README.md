@@ -1,2 +1,8 @@
 # MERGE_XML
-MERGE XML
+
+Creating EXE installer:
+  > pip install pyinstaller
+  > pyinstaller yourprogram.py
+
+Packing:
+  > InstallForge
