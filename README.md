@@ -5,4 +5,4 @@ Creating EXE installer:
   > pyinstaller yourprogram.py
 
 Packing:
-  > InstallForge
+  > InstallForge @ http://www.installforge.net/
